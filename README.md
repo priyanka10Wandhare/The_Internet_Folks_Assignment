@@ -1,7 +1,5 @@
 # The_Internet_Folks_Assignment
 
-<h2>Problem Statement</h2>
-
 <p>You run a SaaS Platform that enables user to make their communities and add members to it.
 Each user, can create a community and (automatically) gets assigned the Community Admin role. They can add other users to the community who get assigned the Community Member role.</p>
 
@@ -17,3 +15,11 @@ Each user, can create a community and (automatically) gets assigned the Communit
   Feature: User should be able to see all community members.
   Feature: User should be able to add a user as member.
   Feature: User should be able to remove a member from community.
+  
+<h2>Problem Statement</h2>
+  You need to build the APIs that adheres to above user stories.
+  The Role names are strict.
+  The API URLs and Response Structure is fixed.
+  The field attributes and table names are strict as well.
+  Addition of field for storing IDs when using NoSQL is allowed.
+  Validations for each API must be carried out.
