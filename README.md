@@ -7,8 +7,8 @@ Each user, can create a community and (automatically) gets assigned the Communit
 
 <h2>User Stories (Features)</h2>
 
-<h3>Module: Authentication</h3><br>
-  Feature: User should be able to signup using valid name, email and strong password.<br>
+<h3>Module: Authentication</h3>
+  Feature: User should be able to signup using valid name, email and strong password.
   Feature: User should be able to signin using valid credentials.
 <h3>Module: Community</h3>
   Feature: User should be able to see all communities.
