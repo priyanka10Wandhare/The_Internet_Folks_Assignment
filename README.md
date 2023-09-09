@@ -5,7 +5,7 @@
 <p>You run a SaaS Platform that enables user to make their communities and add members to it.
 Each user, can create a community and (automatically) gets assigned the Community Admin role. They can add other users to the community who get assigned the Community Member role.</p>
 
-<strong>User Stories (Features)</strong>
+<h1>User Stories (Features)</h1>
 
 <h2>Module: Authentication</h2><br>
   Feature: User should be able to signup using valid name, email and strong password.<br>
