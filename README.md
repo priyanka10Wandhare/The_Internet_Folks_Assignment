@@ -1,4 +1,4 @@
-# The_Internet_Folks_Assignment
+# The_Internet_Folks
 
 Tech Stack i am using in this repo are Node.js ,MongoDB, mongoose/MongoDB Native Driver
 <p>You run a SaaS Platform that enables user to make their communities and add members to it.
